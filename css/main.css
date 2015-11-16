@@ -1,0 +1,13 @@
+input {
+  margin-bottom: 5px;
+}
+#govtChooser {
+
+}
+.pointer-row {
+  cursor: pointer;
+}
+.table-component {
+  max-height: 500px;
+  overflow: auto;
+}
